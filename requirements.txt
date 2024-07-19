@@ -1,0 +1,4 @@
+tomlkit
+tkinter
+selenium
+requests
